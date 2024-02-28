@@ -8,5 +8,34 @@
       "id": "bef0",
       "nome": "Teste Vue"
     }
+  ],
+  "tarefas": [
+    {
+      "id": "1",
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "id": "2679",
+      "duracaoEmSegundos": 5,
+      "descricao": "Teste de tarefas",
+      "projeto": {
+        "id": "bef0",
+        "nome": "Teste Vue"
+      }
+    },
+    {
+      "id": "d769",
+      "duracaoEmSegundos": 1,
+      "descricao": "",
+      "projeto": {
+        "id": "bef0",
+        "nome": "Teste Vue"
+      }
+    }
   ]
 }
